@@ -1,4 +1,0 @@
-Producto: Lapicera | Precio: $120.5 | Cantidad: 30
-Producto: Resaltador | Precio: $252 | Cantidad: 12
-Producto: Regla | Precio: $155 | Cantidad: 20
-Producto: lol | Precio: $72 | Cantidad: 7 
